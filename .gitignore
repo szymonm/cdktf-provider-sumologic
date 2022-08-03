@@ -52,4 +52,5 @@ package-lock.json
 !/README.md
 !/.github/workflows/provider-upgrade.yml
 !/.github/workflows/automerge.yml
+!/.github/ISSUE_TEMPLATE/config.yml
 !/.github/workflows/upgrade-main.yml
