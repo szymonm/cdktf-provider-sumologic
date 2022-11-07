@@ -8,6 +8,7 @@ const project = new CdktfProviderProject({
   constructsVersion: "^10.0.0",
   jsiiVersion: "^1.53.0",
   minNodeVersion: "14.17.0",
+
   namespace: "sumologic",
   githubNamespace: "szymonm",
   mavenOrg: "sumologic"
