@@ -1,5 +1,5 @@
 
-# Terraform CDK sumologic Provider ~> 2.16.2
+# Terraform CDK sumologic Provider ~> 2.19.1
 
 This repo builds and publishes the Terraform sumologic Provider bindings for [CDK for Terraform](https://cdk.tf).
 
@@ -7,30 +7,30 @@ This repo builds and publishes the Terraform sumologic Provider bindings for [CD
 
 ### NPM
 
-The npm package is available at [https://www.npmjs.com/package/@cdktf/provider-sumologic](https://www.npmjs.com/package/@cdktf/provider-sumologic).
+The npm package is available at [https://www.npmjs.com/package/@sumologic/provider-sumologic](https://www.npmjs.com/package/@sumologic/provider-sumologic).
 
-`npm install @cdktf/provider-sumologic`
+`npm install @sumologic/provider-sumologic`
 
 ### PyPI
 
-The PyPI package is available at [https://pypi.org/project/cdktf-cdktf-provider-sumologic](https://pypi.org/project/cdktf-cdktf-provider-sumologic).
+The PyPI package is available at [https://pypi.org/project/sumologic-cdktf-provider-sumologic](https://pypi.org/project/sumologic-cdktf-provider-sumologic).
 
-`pipenv install cdktf-cdktf-provider-sumologic`
+`pipenv install sumologic-cdktf-provider-sumologic`
 
 ### Nuget
 
-The Nuget package is available at [https://www.nuget.org/packages/HashiCorp.Cdktf.Providers.Sumologic](https://www.nuget.org/packages/HashiCorp.Cdktf.Providers.Sumologic).
+The Nuget package is available at [https://www.nuget.org/packages/HashiCorp.Sumologic.Providers.Sumologic](https://www.nuget.org/packages/HashiCorp.Sumologic.Providers.Sumologic).
 
-`dotnet add package HashiCorp.Cdktf.Providers.Sumologic`
+`dotnet add package HashiCorp.Sumologic.Providers.Sumologic`
 
 ### Maven
 
-The Maven package is available at [https://mvnrepository.com/artifact/com.hashicorp/cdktf-provider-sumologic](https://mvnrepository.com/artifact/com.hashicorp/cdktf-provider-sumologic).
+The Maven package is available at [https://mvnrepository.com/artifact/com.sumologic/sumologic-provider-sumologic](https://mvnrepository.com/artifact/com.sumologic/sumologic-provider-sumologic).
 
 ```
 <dependency>
-    <groupId>com.hashicorp</groupId>
-    <artifactId>cdktf-provider-sumologic</artifactId>
+    <groupId>com.sumologic</groupId>
+    <artifactId>sumologic-provider-sumologic</artifactId>
     <version>[REPLACE WITH DESIRED VERSION]</version>
 </dependency>
 ```
@@ -38,9 +38,9 @@ The Maven package is available at [https://mvnrepository.com/artifact/com.hashic
 
 ### Go
 
-The go package is generated into the [`github.com/hashicorp/cdktf-provider-sumologic-go`](https://github.com/hashicorp/cdktf-provider-sumologic-go) package.
+The go package is generated into the [`github.com/szymonm/cdktf-provider-sumologic-go`](https://github.com/szymonm/cdktf-provider-sumologic-go) package.
 
-`go get github.com/hashicorp/cdktf-provider-sumologic-go/sumologic`
+`go get github.com/szymonm/cdktf-provider-sumologic-go/sumologic`
 
 ## Docs
 
@@ -49,7 +49,7 @@ You can also visit a hosted version of the documentation on [constructs.dev](htt
 
 ## Versioning
 
-This project is explicitly not tracking the Terraform sumologic Provider version 1:1. In fact, it always tracks `latest` of `~> 2.16.2` with every release. If there are scenarios where you explicitly have to pin your provider version, you can do so by generating the [provider constructs manually](https://cdk.tf/imports).
+This project is explicitly not tracking the Terraform sumologic Provider version 1:1. In fact, it always tracks `latest` of `~> 2.19.1` with every release. If there are scenarios where you explicitly have to pin your provider version, you can do so by generating the [provider constructs manually](https://cdk.tf/imports).
 
 These are the upstream dependencies:
 
