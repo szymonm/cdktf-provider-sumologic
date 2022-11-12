@@ -7,30 +7,30 @@ This repo builds and publishes the Terraform sumologic Provider bindings for [CD
 
 ### NPM
 
-The npm package is available at [https://www.npmjs.com/package/@sumologic/provider-sumologic](https://www.npmjs.com/package/@sumologic/provider-sumologic).
+The npm package is available at [https://www.npmjs.com/package/@cdktf/provider-sumologic](https://www.npmjs.com/package/@cdktf/provider-sumologic).
 
-`npm install @sumologic/provider-sumologic`
+`npm install @cdktf/provider-sumologic`
 
 ### PyPI
 
-The PyPI package is available at [https://pypi.org/project/sumologic-cdktf-provider-sumologic](https://pypi.org/project/sumologic-cdktf-provider-sumologic).
+The PyPI package is available at [https://pypi.org/project/cdktf-cdktf-provider-sumologic](https://pypi.org/project/cdktf-cdktf-provider-sumologic).
 
-`pipenv install sumologic-cdktf-provider-sumologic`
+`pipenv install cdktf-cdktf-provider-sumologic`
 
 ### Nuget
 
-The Nuget package is available at [https://www.nuget.org/packages/HashiCorp.Sumologic.Providers.Sumologic](https://www.nuget.org/packages/HashiCorp.Sumologic.Providers.Sumologic).
+The Nuget package is available at [https://www.nuget.org/packages/HashiCorp.Cdktf.Providers.Sumologic](https://www.nuget.org/packages/HashiCorp.Cdktf.Providers.Sumologic).
 
-`dotnet add package HashiCorp.Sumologic.Providers.Sumologic`
+`dotnet add package HashiCorp.Cdktf.Providers.Sumologic`
 
 ### Maven
 
-The Maven package is available at [https://mvnrepository.com/artifact/com.sumologic/sumologic-provider-sumologic](https://mvnrepository.com/artifact/com.sumologic/sumologic-provider-sumologic).
+The Maven package is available at [https://mvnrepository.com/artifact/com.sumologic/cdktf-provider-sumologic](https://mvnrepository.com/artifact/com.sumologic/cdktf-provider-sumologic).
 
 ```
 <dependency>
     <groupId>com.sumologic</groupId>
-    <artifactId>sumologic-provider-sumologic</artifactId>
+    <artifactId>cdktf-provider-sumologic</artifactId>
     <version>[REPLACE WITH DESIRED VERSION]</version>
 </dependency>
 ```
