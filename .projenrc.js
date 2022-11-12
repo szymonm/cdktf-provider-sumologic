@@ -11,7 +11,8 @@ const project = new CdktfProviderProject({
 
   namespace: "sumologic",
   githubNamespace: "szymonm",
-  mavenOrg: "sumologic"
+  mavenOrg: "sumologic",
+  mavenEndpoint: "https://oss.sonatype.org"
 });
 
 project.synth();
