@@ -7,15 +7,15 @@ This repo builds and publishes the Terraform sumologic Provider bindings for [CD
 
 ### NPM
 
-The npm package is available at [https://www.npmjs.com/package/@cdktf/provider-sumologic](https://www.npmjs.com/package/@cdktf/provider-sumologic).
+The npm package is available at [https://www.npmjs.com/package/@szymonm/provider-sumologic](https://www.npmjs.com/package/@szymonm/provider-sumologic).
 
-`npm install @cdktf/provider-sumologic`
+`npm install @szymonm/provider-sumologic`
 
 ### PyPI
 
-The PyPI package is available at [https://pypi.org/project/cdktf-cdktf-provider-sumologic](https://pypi.org/project/cdktf-cdktf-provider-sumologic).
+The PyPI package is available at [https://pypi.org/project/szymonm-cdktf-provider-sumologic](https://pypi.org/project/szymonm-cdktf-provider-sumologic).
 
-`pipenv install cdktf-cdktf-provider-sumologic`
+`pipenv install szymonm-cdktf-provider-sumologic`
 
 ### Nuget
 
